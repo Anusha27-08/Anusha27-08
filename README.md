@@ -43,39 +43,4 @@
 
 <img src="https://streak-stats.demolab.com?user=Anusha27-08&theme=radical&hide_border=false" width="70%"/>
 
-</div>
-<h1 align="center">Hi 👋, I'm Anusha R</h1>
-
-<h3 align="center">Data Science & Artificial Intelligence Student</h3>
-
-<p align="center">
-  🚀 Learning • Building • Exploring
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Data Science & Artificial Intelligence Student
-- 🤖 Interested in Machine Learning
-- 📊 Exploring Data Science
-- 🚀 Building real-world projects
-- 💡 Continuously learning and improving my technical skills
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-|:---:|:---|
-| 💻 Programming | Python · Java · C |
-| 🤖 AI / ML | Machine Learning · Scikit-learn · OpenCV |
-| 📊 Data Science | Pandas · NumPy · Matplotlib |
-| ☁️ Development | Google Colab · VS Code |
-| 🌐 Web Development | HTML · CSS |
-| 🔧 Dev Tools | Git · GitHub |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode" />
-</p>
 
