@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anusha</h1>
 
-<!--
-**Anusha27-08/Anusha27-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Science & Artificial Intelligence Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Learning • Building • Exploring
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Data Science & Artificial Intelligence Student
+- 🐍  Python
+- 💻 Learning C & java 
+- 🤖 Interested in Machine Learning
+- 📊 Exploring Data Science
+- 🚀 Interested in building real-world projects
+- ---  
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode" />
+</p>
+
+<p align="center">
+  🐍 Python &nbsp;&nbsp;
+  ☕ Java &nbsp;&nbsp;
+  🔵 C &nbsp;&nbsp;
+  🌐 HTML &nbsp;&nbsp;
+  🎨 CSS &nbsp;&nbsp;
+  🔧 Git &nbsp;&nbsp;
+  🐙 GitHub &nbsp;&nbsp;
+  💻 VS Code
+</p>
