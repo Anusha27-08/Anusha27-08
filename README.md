@@ -6,12 +6,10 @@
   🚀 Learning • Building • Exploring
 </p>
 ---
-_______________________
 - 🤖 Interested in Machine Learning
 - 📊 Exploring Data Science
 - 🚀 Interested in building real-world projects
 - ---  
-_______________________
 
 ## 🛠️ Tech Stack & Tools
 
