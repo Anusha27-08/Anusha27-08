@@ -6,14 +6,12 @@
   🚀 Learning • Building • Exploring
 </p>
 ---
-
-## 👩‍💻 About Me
-
-- 🎓 Data Science & Artificial Intelligence Student
+_______________________
 - 🤖 Interested in Machine Learning
 - 📊 Exploring Data Science
 - 🚀 Interested in building real-world projects
 - ---  
+_______________________
 
 ## 🛠️ Tech Stack & Tools
 
