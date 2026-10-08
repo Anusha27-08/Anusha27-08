@@ -33,14 +33,17 @@
   🐙 GitHub &nbsp;&nbsp;
   💻 VS Code
 </p>
- ## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anusha27-08&show_icons=true&theme=default" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anusha27-08&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha27-08&layout=compact&theme=default" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha27-08&layout=compact&theme=radical&hide_border=false" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Anusha27-08&theme=radical&hide_border=false" width="70%"/>
 
 </div>
-
 
