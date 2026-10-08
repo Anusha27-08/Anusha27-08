@@ -33,3 +33,14 @@
   🐙 GitHub &nbsp;&nbsp;
   💻 VS Code
 </p>
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anusha27-08&show_icons=true&theme=default&title_color=0288D1&icon_color=03A9F4&text_color=455A64&border_color=81D4FA&bg_color=E1F5FE" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha27-08&layout=compact&title_color=0288D1&text_color=455A64&border_color=81D4FA&bg_color=E1F5FE" height="180"/>
+
+</div>
+
+
