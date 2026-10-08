@@ -30,11 +30,9 @@
 | 🌐 Web Development | HTML · CSS |
 | 🔧 Dev Tools | Git · GitHub |
 
-<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode,opencv,sklearn,numpy,pandas" />
 </p>
-
 
 
 ## GitHub Stats
