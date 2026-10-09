@@ -3,8 +3,8 @@
 <p align="center">
   🚀 Learning • Building • Exploring
 </p>
-<div align="center">
-## 👩‍💻 About Me
+<h2 align="left">👩‍💻 About Me</h2>
+
   <br>
 🎓 Pursuing 2nd year B.Tech in Artificial Intelligence and Data Science at St.Joseph's College Of Engineering,Chennai
   <br>
