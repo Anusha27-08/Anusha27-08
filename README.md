@@ -5,11 +5,17 @@
 </p>
 <div align="center">
 👩‍💻 About Me
+  <br>
 🎓 Pursuing 2nd year B.Tech in Artificial Intelligence and Data Science at St.Joseph's College Of Engineering,Chennai
+  <br>
 🤖 Exploring Artificial Intelligence and Machine Learning
+  <br>
 📊 Learning data preprocessing and data visualization
+  <br>
 💻 Practicing programming and problem-solving
+  <br>
 🚀 Building projects to apply what I learn
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
