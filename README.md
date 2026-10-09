@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anusha R </h1>
 
-<h3 align="center">Data Science & Artificial Intelligence Student</h3>
-
 <p align="center">
   🚀 Learning • Building • Exploring
 </p>
----
-- 🤖 Interested in Machine Learning
-- 📊 Exploring Data Science
-- 🚀 Interested in building real-world projects
-- ---  
+👩‍💻 About Me
+🎓 Pursuing 2nd year B.Tech in Artificial Intelligence and Data Science at St.Joseph's College Of Engineering,Chennai
+🤖 Exploring Artificial Intelligence and Machine Learning
+📊 Learning data preprocessing and data visualization
+💻 Practicing programming and problem-solving
+🚀 Building projects to apply what I learn
 
 ## 🛠️ Tech Stack & Tools
 
