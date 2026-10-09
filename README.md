@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Learning • Building • Exploring
 </p>
+<div align="center">
 👩‍💻 About Me
 🎓 Pursuing 2nd year B.Tech in Artificial Intelligence and Data Science at St.Joseph's College Of Engineering,Chennai
 🤖 Exploring Artificial Intelligence and Machine Learning
