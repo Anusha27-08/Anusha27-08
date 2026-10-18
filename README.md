@@ -47,6 +47,8 @@
 
 ## 🌍 Open Source Journey
 
+<div align="center">
+
 Learning by contributing, collaborating, and solving real-world software problems.
 
 ### ✅ 🚀Merged Pull Requests
