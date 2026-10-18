@@ -45,4 +45,18 @@
 
 <img src="https://streak-stats.demolab.com?user=Anusha27-08&theme=radical&hide_border=false" width="70%"/>
 
+## 🌍 Open Source Journey
+
+Learning by contributing, collaborating, and solving real-world software problems.
+
+### ✅ 🚀Merged Pull Requests
+
+- **[#18754 — Fix Module Export Compatibility](https://github.com/KanishJebaMathewM/Truxify/pull/18754)**  
+  Resolved a module export compatibility issue to help ensure the project script works correctly.
+
+- **[#18753 — Strengthen Order Lifecycle Error Handling](https://github.com/KanishJebaMathewM/Truxify/pull/18753)**  
+  Improved error handling in the order lifecycle service to make failures easier to manage.
+
+*Every contribution is a step toward becoming a better developer.* ✨
+
 
